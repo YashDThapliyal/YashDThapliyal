@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Yash 👋
 
-<!--
-**YashDThapliyal/YashDThapliyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EECS @ UC Berkeley · ML Researcher @ [BAIR](https://bair.berkeley.edu/) · Previously @ Amazon, C.Light Technologies
 
-Here are some ideas to get you started:
+Interested in **deep learning**, **NLP**, **RL**, **agentic AI**, and **AI safety**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [Email](mailto:yash.thapliyal@berkeley.edu) · [Portfolio](https://yashdthapliyal.github.io/) · [LinkedIn](https://linkedin.com/in/yashdthapliyal)
+
+---
+
+Check out some cool work I've done in:
+
+### 🤖 Agentic AI
+- **[ResearchAgents](https://github.com/YashDThapliyal/ResearchAgents)** - Coordinates 4 specialized agents (ideation, code gen, execution, analysis) to run ML experiments end-to-end and produce reproducible artifacts
+
+### 🛡️ AI Safety
+- **[ShadowCommit](https://github.com/YashDThapliyal/ShadowCommit)** - Sandboxing engine for AI agents that detects attacks by cloning the filesystem and comparing execution fingerprints; catches 5/5 attack categories vs. 2/5 for token-based monitoring, with 0 false positives
+
+### 🧠 Memory & World Models
+- **[ChronosGraph](https://github.com/YashDThapliyal/ChronosGraph)** - Persists world-state changes from a simulation into a Neo4j temporal knowledge graph; graph-grounded agents hit 93% accuracy on adversarial temporal reasoning evals
+- **[MemoChain](https://pypi.org/project/memochain/)** - Open-source PyPI library for adding persistent memory to any LLM app in under 5 lines of code
+- **[Autonomous Driving World Model](https://github.com/YashDThapliyal/Autonomous-Driving-World-Model)** - Analyzes raw dashcam footage through a 7-stage perception-to-planning pipeline to predict feasible next actions for an ego vehicle
