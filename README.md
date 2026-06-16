@@ -22,4 +22,3 @@ Check out some cool work I've done in:
 
 - **[ShadowCommit](https://github.com/YashDThapliyal/ShadowCommit)** - Sandboxing engine for AI agents that detects attacks by cloning the filesystem and comparing execution fingerprints; catches [...]
 
-- **[AgentActionCompliance](https://github.com/YashDThapliyal/AgentActionCompliance)** - Research benchmark measuring whether LLM agents comply with safety rules through actual tool calls or just in stated reasoning.
